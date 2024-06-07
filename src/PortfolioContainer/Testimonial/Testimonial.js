@@ -175,7 +175,7 @@ export default function Testimonial(props) {
          </section>
 
          <div className="footer-image">
-            <img src="img/Testimonial/shape-bg.png" alt="gambar footer" />
+            {/* <img src="img/Testimonial/shape-bg.png" alt="gambar footer" /> */}
          </div>
       </div>
    );
