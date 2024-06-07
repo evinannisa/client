@@ -81,7 +81,7 @@
 }
 
 .evilcorps {
-   background-image: url("../../../public/img/Testimonial/evilcorps.png");
+   /* background-image: url("../../../public/img/Testimonial/evilcorps.png"); */
    background-position: center;
    background-repeat: no-repeat;
    background-size: contain;
@@ -89,7 +89,7 @@
 }
 
 .jconnect {
-   background-image: url("../../../public/img/Testimonial/jconnect.png");
+   /* background-image: url("../../../public/img/Testimonial/jconnect.png"); */
    background-position: center;
    background-repeat: no-repeat;
    background-size: contain;
@@ -97,7 +97,7 @@
 }
 
 .skordigital {
-   background-image: url("../../../public/img/Testimonial/skordigital.png");
+   /* background-image: url("../../../public/img/Testimonial/skordigital.png"); */
    background-position: center;
    background-repeat: no-repeat;
    background-size: contain;
